@@ -9,6 +9,7 @@ A mechanic prototype demo created for Plexus TechDev Studio internship applicati
 In this playable demo you can
 - Move the player using WASD
 - Level up by collecting gems that spawned into the scene
+- XP requirement also increased when player leveled up
 
 Some programming patterns and used in this demo
 - Singleton pattern in script ExperienceManager.cs to provide other script easy access when need to modify its variable value  
