@@ -1,5 +1,5 @@
 
-# Collect and Progression Mechanic Prototype
+# Collect and Progress Mechanic Prototype
 
 A mechanic prototype demo created for Plexus TechDev Studio internship application technical test. 
 
