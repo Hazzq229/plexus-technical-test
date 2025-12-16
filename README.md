@@ -15,6 +15,9 @@ Some programming patterns and used in this demo
 - Singleton pattern in script ExperienceManager.cs to provide other script easy access when need to modify its variable value  
 - State pattern implemented using Finite State Machine (UnityHFSM package) to control player character state in script PlayerController2D.cs
 - Observer pattern used to notify script ProgressionUI.cs when player leveled up and xp increased
+
+### Require Unity Editor version 2022.3.62f2 LTS
+
 ## Acknowledgements
 
 Some assets and Unity Package used in this demo
